@@ -3,18 +3,12 @@ A simple web app that fetches and displays real-time weather information using t
 
 🚀 Features
 Search weather by city name (e.g., Addis Ababa, Jimma, Gambella)
-
 Fetch weather using your current location (via Geolocation API)
-
 Displays temperature, condition, humidity, wind speed, sunrise & sunset
-
 Responsive and minimal design
 
 🔧 Technologies Used
 HTML
-
 CSS
-
 JavaScript (Fetch API, Geolocation)
-
 OpenWeatherMap API
